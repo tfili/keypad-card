@@ -14,6 +14,10 @@ Custom component for lovelace that guards a card behind a keypad. This can be us
 
 ## Installation
 
+### Prerequisites
+
+Install [lovelace-card-tools](https://github.com/thomasloven/lovelace-card-tools) first or this card will not work.
+
 ### Step 1
 
 Install `keypad-card` by copying `keypad-card.js` from this repo to `<config directory>/www/keypad-card/` on your Home Assistant instance.
